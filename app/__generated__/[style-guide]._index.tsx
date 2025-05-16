@@ -10,7 +10,7 @@ import { Link as Link, Body as Body, RichTextLink as RichTextLink } from "@webst
 
       export const projectId = "8b8ff051-82b3-4990-ab1e-3ca49a590526";
 
-      export const lastPublished = "2025-05-16T08:55:58.435Z";
+      export const lastPublished = "2025-05-16T12:48:33.817Z";
 
       export const siteName = "Webstudio Sample Site";
 

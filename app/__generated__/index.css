@@ -95,6 +95,17 @@
     border-left-width: 1px;
     outline-width: 1px
   }
+  img.w-image {
+    box-sizing: border-box;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    outline-width: 1px;
+    max-width: 100%;
+    display: block;
+    height: auto
+  }
   div.w-text {
     box-sizing: border-box;
     border-top-width: 1px;
@@ -129,17 +140,6 @@
     border-left-width: 1px;
     outline-width: 1px;
     display: inline-block
-  }
-  img.w-image {
-    box-sizing: border-box;
-    border-top-width: 1px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-    outline-width: 1px;
-    max-width: 100%;
-    display: block;
-    height: auto
   }
   span.w-text-1 {
     box-sizing: border-box;

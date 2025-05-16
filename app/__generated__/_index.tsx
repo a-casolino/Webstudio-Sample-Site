@@ -5,12 +5,12 @@
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body } from "@webstudio-is/sdk-components-react-router";
-import { Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Box as Box, Heading as Heading, Paragraph as Paragraph, Slot as Slot } from "@webstudio-is/sdk-components-react";
+import { Fragment as Fragment_1, HtmlEmbed as HtmlEmbed, Box as Box, Heading as Heading, Paragraph as Paragraph, Slot as Slot, Image as Image } from "@webstudio-is/sdk-components-react";
 
 
       export const projectId = "8b8ff051-82b3-4990-ab1e-3ca49a590526";
 
-      export const lastPublished = "2025-05-16T08:55:58.435Z";
+      export const lastPublished = "2025-05-16T12:48:33.817Z";
 
       export const siteName = "Webstudio Sample Site";
 
@@ -47,7 +47,7 @@ className={`w-box ced5x4n c1u62tv4 chn0zcz civrck2 c1br3i3l cnktlst c1v03gky`}>
 <Heading
 tag={"h1"}
 className={`w-heading c1jws19y c1o8kpn7 cynii78 c157gpv9 c1ks67gp c1nuter0 cheo1gh`}>
-{"Craft Library"}
+{"Craft Library Change"}
 </Heading>
 <Paragraph
 className={`w-paragraph c1lbij8h c1g7icm5 c7b1rez cheo1gh`}>
@@ -61,6 +61,11 @@ className={`w-paragraph c1g7icm5`}>
 className={`w-paragraph c1g7icm5`}>
 {"In the Navigator, there is “Global,” which contains minimal styles that this library uses. Make sure to add them to a global Slot on your site."}
 </Paragraph>
+<Image
+src={"/assets/IMG_8364_xVBWnpKNxDDbKE6dJnt57.jpg"}
+width={3024}
+height={2000}
+className={`w-image`} />
 </Box>
 </Box>
 </Box>

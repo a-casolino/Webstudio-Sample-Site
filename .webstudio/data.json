@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "acbcd686-5cbd-4a94-9877-097dbbe34d1b",
+    "id": "b62b8cce-46f8-4a99-87dc-5e8474a3515c",
     "projectId": "8b8ff051-82b3-4990-ab1e-3ca49a590526",
-    "version": 20,
-    "createdAt": "2025-05-16T08:55:58.435+00:00",
-    "updatedAt": "2025-05-16T08:55:58.435+00:00",
+    "version": 27,
+    "createdAt": "2025-05-16T12:48:33.817+00:00",
+    "updatedAt": "2025-05-16T12:48:33.817+00:00",
     "pages": {
       "meta": {
         "siteName": "Webstudio Sample Site"
@@ -20007,6 +20007,36 @@
           "type": "string",
           "value": "--foreground-primary: var(--gray-10);\n--foreground-muted: var(--gray-7);\n--background-primary: var(--gray-0);\n--background-secondary: var(--gray-3);\n--background-accent: var(--gray-10);"
         }
+      ],
+      [
+        "vH-A44fMgRq6hGjofeddr",
+        {
+          "id": "vH-A44fMgRq6hGjofeddr",
+          "instanceId": "d9VrsASZp1mhDrHX0iGEt",
+          "name": "src",
+          "type": "asset",
+          "value": "7b818c491f88f10b90737f49d738aa8c46f2eac87fb2564286328fe5b2cf374f"
+        }
+      ],
+      [
+        "4YsZsb4HV3IHNQoC3FjqA",
+        {
+          "id": "4YsZsb4HV3IHNQoC3FjqA",
+          "instanceId": "d9VrsASZp1mhDrHX0iGEt",
+          "name": "width",
+          "type": "asset",
+          "value": "7b818c491f88f10b90737f49d738aa8c46f2eac87fb2564286328fe5b2cf374f"
+        }
+      ],
+      [
+        "UYBmmBWdHa97WZL2H0gn2",
+        {
+          "id": "UYBmmBWdHa97WZL2H0gn2",
+          "instanceId": "d9VrsASZp1mhDrHX0iGEt",
+          "name": "height",
+          "type": "number",
+          "value": 2000
+        }
       ]
     ],
     "dataSources": [],
@@ -20121,6 +20151,10 @@
             {
               "type": "id",
               "value": "iCN6l_im9r2fNxsPjwlvb"
+            },
+            {
+              "type": "id",
+              "value": "d9VrsASZp1mhDrHX0iGEt"
             }
           ]
         }
@@ -20134,7 +20168,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Craft Library"
+              "value": "Craft Library Change"
             }
           ]
         }
@@ -23642,6 +23676,15 @@
             }
           ]
         }
+      ],
+      [
+        "d9VrsASZp1mhDrHX0iGEt",
+        {
+          "type": "instance",
+          "id": "d9VrsASZp1mhDrHX0iGEt",
+          "component": "Image",
+          "children": []
+        }
       ]
     ],
     "deployment": {
@@ -23753,6 +23796,20 @@
       "meta": {
         "width": 169,
         "height": 40
+      }
+    },
+    {
+      "id": "7b818c491f88f10b90737f49d738aa8c46f2eac87fb2564286328fe5b2cf374f",
+      "name": "IMG_8364_xVBWnpKNxDDbKE6dJnt57.jpg",
+      "description": null,
+      "projectId": "8b8ff051-82b3-4990-ab1e-3ca49a590526",
+      "size": 2167831,
+      "type": "image",
+      "format": "jpg",
+      "createdAt": "2025-05-16T12:47:44.713+00:00",
+      "meta": {
+        "width": 3024,
+        "height": 4032
       }
     },
     {
